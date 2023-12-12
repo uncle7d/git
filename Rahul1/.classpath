@@ -35,6 +35,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="Softwares/mysql-connector-java-8.0.11.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

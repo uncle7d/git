@@ -24,6 +24,8 @@ public class tejas {
 		output.next();
 		String name = output.getString("name");
 		System.out.println(name);
+		String movie=output.getString("movie");
+		System.out.println(movie);
 		
 	}
 
